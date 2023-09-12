@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\finall\\practice2\\practice2.csproj": {}
+    "c:\\Users\\kavin.senthil\\Desktop\\aswinrepo\\practice2\\practice2.csproj": {}
   },
   "projects": {
-    "d:\\finall\\practice2\\practice2.csproj": {
+    "c:\\Users\\kavin.senthil\\Desktop\\aswinrepo\\practice2\\practice2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\finall\\practice2\\practice2.csproj",
+        "projectUniqueName": "c:\\Users\\kavin.senthil\\Desktop\\aswinrepo\\practice2\\practice2.csproj",
         "projectName": "practice2",
-        "projectPath": "d:\\finall\\practice2\\practice2.csproj",
-        "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
-        "outputPath": "d:\\finall\\practice2\\obj\\",
+        "projectPath": "c:\\Users\\kavin.senthil\\Desktop\\aswinrepo\\practice2\\practice2.csproj",
+        "packagesPath": "C:\\Users\\kavin.senthil\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\kavin.senthil\\Desktop\\aswinrepo\\practice2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kavin.senthil\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
